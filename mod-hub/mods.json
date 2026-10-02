@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T23:25:26.873671+00:00",
+  "generated_at": "2026-10-02T23:34:40.013789+00:00",
   "mods": [
     {
       "id": "2040-bed-connector",
@@ -173,6 +173,25 @@
         "https://github.com/magpie-printer/magpie/raw/main/Mods/Z-Axis%20Lead%20Screw%20Mod/images/Rear_Bottom_Back.jpg",
         "https://github.com/magpie-printer/magpie/raw/main/Mods/Z-Axis%20Lead%20Screw%20Mod/images/top_assembly.jpg",
         "https://github.com/magpie-printer/magpie/raw/main/Mods/Z-Axis%20Lead%20Screw%20Mod/images/bottom_assembly.jpg"
+      ],
+      "last_modified": "2026-10-02"
+    },
+    {
+      "id": "magpie-mod-z-axis",
+      "name": "Improved Magpie Z-Axis",
+      "author": null,
+      "summary": "This mod was made to fix the issues I had with the stock z-axis design and allow for re-use of more ender 3 parts -- the z motor and lead screws. This is achieved in the front by replacing the bottom KLF-08 bearings with 2 608 bearings. This makes all three lead screws secure enough that the pulling from the belt doesn't flex the lead screws removing the need to support the front lead screws on the top frame which means the lead screws can be shorter.",
+      "path": "Mods/magpie-mod-z-axis",
+      "readme": "Mods/magpie-mod-z-axis/README.md",
+      "images": [
+        "Mods/magpie-mod-z-axis/images/assembled.jpg",
+        "Mods/magpie-mod-z-axis/images/step1.jpg",
+        "Mods/magpie-mod-z-axis/images/step2.jpg",
+        "Mods/magpie-mod-z-axis/images/step3.jpg",
+        "Mods/magpie-mod-z-axis/images/step4.jpg",
+        "Mods/magpie-mod-z-axis/images/step5.jpg",
+        "Mods/magpie-mod-z-axis/images/step6.jpg",
+        "Mods/magpie-mod-z-axis/images/rear.jpg"
       ],
       "last_modified": "2026-10-02"
     }
